@@ -1,0 +1,9 @@
+{
+  "name": "phonebookbackend",
+  "version": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11"
+  }
+}
